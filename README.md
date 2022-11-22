@@ -4,7 +4,7 @@
 IBM-Project-45409-1660729898
 
 
-**Batch Name :** B4-4M6E
+**Batch Name :** 
 
 **Team ID :** PNT2022TMID40747
 
@@ -45,6 +45,6 @@ In order to detect and predict e-banking phishing websites, we proposed an intel
   
 ## DEMO VIDEO
 
-https://user-images.githubusercontent.com/64250687/201966820-8524898f-b407-4f4a-94e4-c8ba56286de6.mp4
+
 
 
