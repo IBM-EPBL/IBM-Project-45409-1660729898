@@ -43,7 +43,7 @@ In order to detect and predict e-banking phishing websites, we proposed an intel
  ## Technical Architecture : <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Brick.png" alt="Brick" width="25" height="25" />
   ![pasted image 0](https://user-images.githubusercontent.com/62200224/191585875-9db35871-72b5-476e-ac9b-3795cf3778de.png)
   
-## DEMO VIDEO
+## DEMO VIDEO https://vimeo.com/774827478
 
 
 
